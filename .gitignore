@@ -413,7 +413,6 @@ ssl/
 *.key
 *.pem
 *.pfx
-*.srl
 
 # File generati da editor
 *.swp
