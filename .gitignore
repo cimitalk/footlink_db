@@ -423,3 +423,10 @@ pgdata/
 *.pid
 *.log
 *.conf.bak
+
+ssl/
+*.crt
+*.key
+*.pem
+*.pfx
+*.srl
