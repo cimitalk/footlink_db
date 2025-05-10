@@ -399,3 +399,27 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+#CIMINARI A.: Evita di committare le credenziali e i segreti
+secrets/
+*.key
+*.crt
+*.pfx
+*.pem
+*.srl
+
+# File generati da editor
+*.swp
+*.swo
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Evita file temporanei di PostgreSQL (potrebbero apparire se bind-mounted)
+data/
+pgdata/
+*.pid
+*.log
+*.conf.bak
