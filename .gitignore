@@ -408,6 +408,12 @@ secrets/
 *.pfx
 *.pem
 *.srl
+ssl/
+*.crt
+*.key
+*.pem
+*.pfx
+*.srl
 
 # File generati da editor
 *.swp
@@ -424,9 +430,3 @@ pgdata/
 *.log
 *.conf.bak
 
-ssl/
-*.crt
-*.key
-*.pem
-*.pfx
-*.srl
