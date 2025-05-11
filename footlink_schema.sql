@@ -1,3 +1,4 @@
+-- Active: 1746921981614@@0.0.0.0@5432@footlink
 
 -- FOOTLINK Database Schema
 -- Generated: 2025-05-10T12:25:52.242295 UTC
